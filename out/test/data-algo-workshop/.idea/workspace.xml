@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9057146c-f9de-4c49-8ccf-f7287914a6e4" name="Default Changelist" comment="" />
+    <list default="true" id="9057146c-f9de-4c49-8ccf-f7287914a6e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/binarytree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/hashtable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/binarytree/BinarySearchTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/hashtable/HashTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/linkedlist/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/linkedlist/LinkedListTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +23,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\mishael.harry\Documents\NetBeansProjects\data-algo-workshop\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1W0zUcP77b9KWtyrBuFySsXLjqB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -26,13 +49,17 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/test/com/algorithm/datastructure/array" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/test/com/algorithm/datastructure" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithms101" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45147058" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.algorithm.datastructure.binarytree" />
+      <recent name="com.algorithm.datastructure.hashtable" />
+      <recent name="com.algorithm.datastructure.linkedlist" />
       <recent name="com.algorithm.datastructure.array" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -51,13 +78,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DynamicArrayTest">
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.Main" />
       <module name="data-algo-workshop" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-algo-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.datastructure.binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.binarytree" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.binarytree.BinarySearchTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,12 +119,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-algo-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.datastructure.hashtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.hashtable" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.hashtable.HashTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-algo-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.datastructure.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.linkedlist.LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.DynamicArrayTest" />
+      <item itemvalue="JUnit.LinkedListTest" />
+      <item itemvalue="JUnit.HashTableTest" />
+      <item itemvalue="JUnit.BinarySearchTreeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTreeTest" />
+        <item itemvalue="JUnit.HashTableTest" />
+        <item itemvalue="JUnit.LinkedListTest" />
         <item itemvalue="JUnit.DynamicArrayTest" />
       </list>
     </recent_temporary>
@@ -98,6 +176,29 @@
       <option name="presentableId" value="Default" />
       <updated>1578301316667</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1578327938311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578327938311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedList.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
