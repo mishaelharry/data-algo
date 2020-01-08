@@ -1,10 +1,6 @@
-package com.algorithm.datastructure;
+package com.algorithm.datastructure.fibonacci;
 
-public class Main {
-
-    public static void main(String[] args) {
-	    // write your code here
-    }
+public class FibonacciNaive {
 
     public int fib(int n){
         if (n <= 0){

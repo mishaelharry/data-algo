@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9057146c-f9de-4c49-8ccf-f7287914a6e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/binarytree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/hashtable/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/binarytree/BinarySearchTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/hashtable/HashTableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/binaryheap/MaxIntHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/OneAway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/PermutationDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/UniqueCharacterDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/fibonacci/FibonacciMemoized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/fibonacci/FibonacciNaive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/binaryheap/MaxIntHeapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/OneAwayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/PermutationDetectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/URLifyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/UniqueCharacterDetectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/fibonacci/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/linkedlist/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/linkedlist/LinkedListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,10 +53,11 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/test/com/algorithm/datastructure" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithms101" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -57,10 +65,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.algorithm.datastructure.challenge" />
+      <recent name="com.algorithm.datastructure.fibonacci" />
+      <recent name="com.algorithm.datastructure.binaryheap" />
       <recent name="com.algorithm.datastructure.binarytree" />
       <recent name="com.algorithm.datastructure.hashtable" />
-      <recent name="com.algorithm.datastructure.linkedlist" />
-      <recent name="com.algorithm.datastructure.array" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -78,90 +87,96 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchTreeTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.Main" />
-      <module name="data-algo-workshop" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearchTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OneAwayTest">
+    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-algo-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.datastructure.binarytree.*" />
+          <option name="PATTERN" value="com.algorithm.datastructure.fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.binarytree" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.binarytree.BinarySearchTreeTest" />
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.fibonacci.FibonacciTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OneAwayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-algo-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.datastructure.array.*" />
+          <option name="PATTERN" value="com.algorithm.datastructure.challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.array" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.array.DynamicArrayTest" />
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.challenge.OneAwayTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PermutationDetectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-algo-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.datastructure.hashtable.*" />
+          <option name="PATTERN" value="com.algorithm.datastructure.challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.hashtable" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.hashtable.HashTableTest" />
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.challenge.PermutationDetectorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="URLifyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-algo-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.datastructure.linkedlist.*" />
+          <option name="PATTERN" value="com.algorithm.datastructure.challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.linkedlist.LinkedListTest" />
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.challenge.URLifyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueCharacterDetectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-algo-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.datastructure.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.challenge.UniqueCharacterDetectorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.DynamicArrayTest" />
-      <item itemvalue="JUnit.LinkedListTest" />
-      <item itemvalue="JUnit.HashTableTest" />
-      <item itemvalue="JUnit.BinarySearchTreeTest" />
+      <item itemvalue="JUnit.FibonacciTest" />
+      <item itemvalue="JUnit.UniqueCharacterDetectorTest" />
+      <item itemvalue="JUnit.PermutationDetectorTest" />
+      <item itemvalue="JUnit.URLifyTest" />
+      <item itemvalue="JUnit.OneAwayTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BinarySearchTreeTest" />
-        <item itemvalue="JUnit.HashTableTest" />
-        <item itemvalue="JUnit.LinkedListTest" />
-        <item itemvalue="JUnit.DynamicArrayTest" />
+        <item itemvalue="JUnit.OneAwayTest" />
+        <item itemvalue="JUnit.URLifyTest" />
+        <item itemvalue="JUnit.PermutationDetectorTest" />
+        <item itemvalue="JUnit.UniqueCharacterDetectorTest" />
+        <item itemvalue="JUnit.FibonacciTest" />
       </list>
     </recent_temporary>
   </component>
@@ -183,12 +198,20 @@
       <option name="project" value="LOCAL" />
       <updated>1578327938311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="search algos">
+      <created>1578415578591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578415578591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="search algos" />
+    <option name="LAST_COMMIT_MESSAGE" value="search algos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
