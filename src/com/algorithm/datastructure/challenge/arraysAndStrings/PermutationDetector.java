@@ -1,4 +1,4 @@
-package com.algorithm.datastructure.challenge;
+package com.algorithm.datastructure.challenge.arraysAndStrings;
 
 import java.util.Arrays;
 
