@@ -2,64 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7e290a9-372f-4a86-a4b5-59e76d86663a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/ArraysAndStringsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/BinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/StacksAndQueuesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/META-INF/data-algo-workshop.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/array/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/array/DynamicArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/binaryheap/MaxIntHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/binaryheap/MaxIntHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/challenge/OneAway.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/challenge/PermutationDetector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/challenge/URLify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/challenge/UniqueCharacterDetector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciMemoized.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciMemoized.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciNaive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciNaive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable$HashEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable$HashEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/arraysAndStrings/Compressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedListAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedListLoopDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/stack/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/array/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/array/DynamicArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/array/DynamicArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/array/DynamicArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binaryheap/MaxIntHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binaryheap/MaxIntHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binaryheap/MaxIntHeapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binaryheap/MaxIntHeapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/binarytree/BinarySearchTreeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/OneAway.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/OneAwayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/OneAwayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/PermutationDetector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/PermutationDetectorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/URLify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/URLifyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/UniqueCharacterDetector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/UniqueCharacterDetectorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciMemoized.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciMemoized.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciNaive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciNaive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/fibonacci/FibonacciTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable$HashEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable$HashEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/hashtable/HashTableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/ArraysAndStringsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/ArraysAndStringsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/challenge/LinkedListTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/data-algo-workshop/com/algorithm/datastructure/linkedlist/LinkedListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/OneAway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/arraysAndStrings/OneAway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/PermutationDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/arraysAndStrings/PermutationDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/URLify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/arraysAndStrings/URLify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/UniqueCharacterDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/challenge/arraysAndStrings/UniqueCharacterDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/OneAwayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/OneAwayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/PermutationDetectorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/URLifyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/UniqueCharacterDetectorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/datastructure/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/ArraysAndStringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/ArraysAndStringsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/algorithm/datastructure/challenge/LinkedListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +38,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.algorithm.datastructure.linkedlist" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -93,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.LinkedListTest">
     <configuration name="ArraysAndStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-algo-workshop" />
       <extension name="coverage">
@@ -109,8 +71,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-algo-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.datastructure.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.datastructure.challenge" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.datastructure.challenge.LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LinkedListTest" />
         <item itemvalue="JUnit.ArraysAndStringsTest" />
       </list>
     </recent_temporary>
@@ -126,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578597664435</updated>
     </task>
+    <task id="LOCAL-00001" summary="modifications">
+      <created>1578637603043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578637603043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifications" />
   </component>
 </project>
